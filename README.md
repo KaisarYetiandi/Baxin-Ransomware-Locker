@@ -1,6 +1,6 @@
-# BAXIN Ransomware (Linux Terminal Locker)
+# BAXIN Ransomware 
 
-Sebuah project ransomware berbasis terminal Linux — dirancang untuk keperluan testing, simulasi, dan riset keamanan siber.
+Sebuah project ransomware berbasis terminal Linux — dirancang untuk keperluan testing
 
 ---
 
@@ -44,15 +44,14 @@ Jalankan
 
 ## Disclaimer  
 Tool ini dibuat hanya untuk edukasi, analisis, dan simulasi insiden keamanan.  
-Dilarang digunakan untuk aktivitas ilegal atau tanpa izin pemilik sistem.  
-Jalankan hanya di environment yang aman seperti Virtual Machine atau sandbox.
+Dilarang digunakan untuk aktivitas ilegal
 
 ---
 
 ## Catatan tambahan  
 • Tujuan utama adalah memahami konsep dasar ransomware interaktif  
 • Support Telegram API secara penuh (custom bot/token)  
-• Direkomendasikan untuk distro Linux berbasis Ubuntu/Debian/Arch
+• Direkomendasikan untuk distro Linux berbasis Ubuntu/Debian/Arch dan Kali Linux
 
 ---
 
