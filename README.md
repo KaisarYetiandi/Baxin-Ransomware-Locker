@@ -35,7 +35,7 @@ sudo apt update && sudo apt install build-essential libcurl4-openssl-dev libjson
 ```
 Setelah itu compile menjadi file exe
 ```
-gcc lock.c -o baxin -lX11 -lcurl -ljson-c -lpthread
+gcc baxin.c -o baxin -lX11 -lcurl -ljson-c -lpthread
 ```
 Jalankan
 ```
