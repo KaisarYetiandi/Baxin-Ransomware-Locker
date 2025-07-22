@@ -43,7 +43,7 @@ Jalankan
 ```
 
 ## Disclaimer  
-Tool ini dibuat hanya untuk edukasi, analisis, dan simulasi insiden keamanan.  
+Tool ini dibuat hanya untuk edukasi, analisis, dan simulasi.
 Dilarang digunakan untuk aktivitas ilegal
 
 ---
