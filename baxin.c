@@ -135,7 +135,7 @@ void animate_text(const char* text, float delay) {
     putchar('\n');
 }
 
-void show_akira_banner() {
+void show_baxin_banner() {
     system("clear");
     color_print("\n\n", "bold");
     color_print("`7MM""""Yp,     db     YMM'      `MP'`7MMF'`7MN.   `7MF'\n", "red");
