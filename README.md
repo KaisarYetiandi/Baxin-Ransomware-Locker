@@ -25,6 +25,23 @@ Sebuah project ransomware berbasis terminal Linux — dirancang untuk keperluan 
 
 ---
 
+## Cara Build & Eksekusi
+
+> Saatnya compile dan jalankan 💻
+
+### 1. Install semua dependency:
+```bash
+sudo apt update && sudo apt install build-essential libcurl4-openssl-dev libjson-c-dev libx11-dev
+```
+Setelah itu compile menjadi file exe
+```
+gcc lock.c -o baxin -lX11 -lcurl -ljson-c -lpthread
+```
+Jalankan
+```
+./baxin
+```
+
 ## Disclaimer  
 Tool ini dibuat hanya untuk edukasi, analisis, dan simulasi insiden keamanan.  
 Dilarang digunakan untuk aktivitas ilegal atau tanpa izin pemilik sistem.  
@@ -40,5 +57,5 @@ Jalankan hanya di environment yang aman seperti Virtual Machine atau sandbox.
 ---
 
 ## Kontak  
-Email: DarknessEmperor@proton.me
+Email: DarknesEmperor@proton.me
 GitHub: github.com/EmperorYetiandi
